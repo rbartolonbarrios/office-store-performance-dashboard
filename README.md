@@ -33,7 +33,7 @@ In this Tableau story, multiple visualizations are used to examine:
 - **Tableau:** For creating interactive and insightful visualizations.
 
 ## Getting Started
-To view the Tableau story, you can check out the live visualization (https://public.tableau.com/app/profile/randy.bartolon.barrios6073/viz/ProfitablityofProducts/ProfitablityofProductsStory) or download the Tableau workbook from this repository.
+To view the Tableau story, you can check out the live visualization on [Tableau Public](https://public.tableau.com/app/profile/randy.bartolon.barrios6073/viz/ProfitablityofProducts/ProfitablityofProductsStory) or download the Tableau workbook from this repository.
 
 ## Conclusion
 This project highlights key trends in the office product market, uncovering significant insights into consumer behavior and product profitability. The geographic distribution of graphing calculator sales provides actionable information for targeted marketing strategies.

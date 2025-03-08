@@ -1,14 +1,7 @@
 # Office Store Performance Dashboard
 
+##Overview
 This project explores the sales trends and profitability of office products over the past four years using Tableau. Through visualizations, we analyze product categories, subcategories, and customer purchase trends to uncover valuable insights.
-
-## Overview
-In this Tableau story, multiple visualizations are used to examine:
-- The top-selling office product categories
-- The profitability of each product category
-- Detailed analysis of the printing and technology categories
-- The highest-selling products in those categories (graphing calculators)
-- Geographic segmentation of graphing calculator buyers across the US
 
 ## Visualizations
 1. **Top-Selling Office Product Categories**
@@ -37,4 +30,4 @@ In this Tableau story, multiple visualizations are used to examine:
 - **Tableau:** For creating interactive and insightful visualizations.
 
 ## Getting Started
-To view the Tableau story, you can check out the live visualization on [Tableau Public](https://public.tableau.com/app/profile/randy.bartolon.barrios6073/viz/ProfitablityofProducts/ProfitablityofProductsStory) or download the Tableau workbook from this repository.
+To view the Tableau story, you can check out the live visualization on [Tableau Public](https://public.tableau.com/app/profile/randy.bartolon.barrios6073/viz/ProfitabilityofProducts_17413939638020/ProfitablityofProductsStory) or download the Tableau workbook from this repository.

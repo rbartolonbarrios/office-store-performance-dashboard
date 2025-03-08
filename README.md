@@ -18,7 +18,7 @@ This project explores the sales trends and profitability of office products over
 
 4. **Graphing Calculator Purchaser Segmentation**
    ![](Images/ProfitablityofProductsStory4.png)
-   - A bar chart segmented by customer demographics or purchasing behavior.
+   - A bar chart segmented by customer demographics.
    - A symbol map displaying the purchase concentration of graphing calculators by state in the US, allowing for geographic insights into product popularity.
 
 ## Insights

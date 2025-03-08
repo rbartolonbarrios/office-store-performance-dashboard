@@ -12,15 +12,19 @@ In this Tableau story, multiple visualizations are used to examine:
 
 ## Visualizations
 1. **Top-Selling Office Product Categories**
+   ![](Images/Profitablity of Products Story1.png)
    - A horizontal bar chart visualizing the most sold product categories in the office supplies market.
 
 2. **Product Category Profitability**
+   ![](Images/Profitablity of Products Story2.png)
    - A line chart illustrating the profitability of each product category over the past four years. The analysis highlights that printing and technology categories have experienced significant growth while others have stagnated.
 
 3. **Printing & Technology Subcategory Analysis**
+   ![](Images/Profitablity of Products Story2.png)
    - A detailed view of the printing and technology categories, showing that graphing calculators were the highest-selling product in these categories.
 
 4. **Graphing Calculator Purchaser Segmentation**
+   ![](Images/Profitablity of Products Story4.png)
    - A bar chart segmented by customer demographics or purchasing behavior.
    - A symbol map displaying the purchase concentration of graphing calculators by state in the US, allowing for geographic insights into product popularity.
 

@@ -1,4 +1,4 @@
-# Office Store Performance Dashboard
+# Office Store Performance and Profitability Analysis
 
 ## Overview
 This project explores the sales trends and profitability of office products over the past four years using Tableau. Through visualizations, we analyze product categories, subcategories, and customer purchase trends to uncover valuable insights.
